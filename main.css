@@ -1,0 +1,13 @@
+h1{
+    color:#082c48; font-size:50px
+}
+body{
+    background-color:#ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    pedding:20px
+}
+p{
+    font-size: 15px;
+    pedding-left:20px;
+    color:#07434b;
+}
